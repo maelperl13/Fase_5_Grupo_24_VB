@@ -147,6 +147,9 @@
                 <br />
                 <br />
                 <asp:Button ID="Button11" runat="server" EnableViewState="False" Text="Repetir Examen" Visible="False" />
+                <br />
+                <br />
+                <asp:Button ID="Button12" runat="server" Text="Volver al Curso" />
             </asp:View>
         </asp:MultiView>
     </form>

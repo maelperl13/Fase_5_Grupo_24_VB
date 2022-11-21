@@ -131,6 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Audios\Audio1.mp3" />
+    <Content Include="Audios\Audio2.mp3" />
+    <Content Include="Audios\Audio3.mp3" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -149,7 +152,16 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Imagenes\Imagen1.png" />
+    <Content Include="Imagenes\Imagen2.png" />
+    <Content Include="Imagenes\Imagen3.png" />
+    <Content Include="Imagenes\Imagen4.png" />
+    <Content Include="Imagenes\LogoUnad.jpg" />
+    <Content Include="Logueo.aspx" />
     <Content Include="WebForm1.aspx" />
+    <Content Include="Documentos\Archivo1.pdf" />
+    <Content Include="Documentos\Archivo2.pdf" />
+    <Content Include="Documentos\Archivo3.pdf" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -208,6 +220,13 @@
     </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Logueo.aspx.designer.vb">
+      <DependentUpon>Logueo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logueo.aspx.vb">
+      <DependentUpon>Logueo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

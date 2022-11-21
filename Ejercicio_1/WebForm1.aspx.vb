@@ -132,4 +132,8 @@
 
 
     End Sub
+
+    Protected Sub Button12_Click(sender As Object, e As EventArgs) Handles Button12.Click
+        Response.Redirect("Default.aspx")
+    End Sub
 End Class
