@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Logueo.aspx.vb" Inherits="Ejercicio_1.Logueo" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Logueo.aspx.vb" Inherits="Fase5_Final.Logueo" %>
 
 <!DOCTYPE html>
 

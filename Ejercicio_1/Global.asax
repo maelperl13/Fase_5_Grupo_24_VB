@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="Ejercicio_1.Global_asax" Language="vb" %>
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="Fase5_Final.Global_asax" Language="vb" %>

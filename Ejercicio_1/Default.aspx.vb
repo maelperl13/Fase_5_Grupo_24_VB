@@ -10,6 +10,6 @@
     End Sub
 
     Protected Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Response.Redirect("Logueo.aspx")
+        Response.Redirect("WebForm2.aspx")
     End Sub
 End Class

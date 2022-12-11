@@ -1,4 +1,4 @@
-﻿<%@ Master Language="VB" AutoEventWireup="true" CodeBehind="Site.master.vb" Inherits="Ejercicio_1.SiteMaster" %>
+﻿<%@ Master Language="VB" AutoEventWireup="true" CodeBehind="Site.master.vb" Inherits="Fase5_Final.SiteMaster" %>
 
 <!DOCTYPE html>
 
